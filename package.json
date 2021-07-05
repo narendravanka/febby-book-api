@@ -1,0 +1,24 @@
+{
+  "name": "febby-book-api",
+  "version": "1.0.0",
+  "description": "book api server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narendravanka/febby-book-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narendravanka/febby-book-api/issues"
+  },
+  "homepage": "https://github.com/narendravanka/febby-book-api#readme",
+  "dependencies": {
+    "febby": "^0.2.14"
+  }
+}
