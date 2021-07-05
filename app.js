@@ -22,7 +22,7 @@ const {
     },
     price :{
         type: Number,
-        default: 0
+        default: 10
     }
   });
    
