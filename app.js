@@ -32,7 +32,6 @@ const {
   }, books, api);
    
   febby.route({
-    router: api,
     path: '/',
     method: 'get',
     handler: (req, res) => {
